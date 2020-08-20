@@ -1,0 +1,10 @@
+#highScoresList {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 4rem;
+}
+
+.high-score { /* this is the class that is dynamically added by the javascript */
+    font-size: 2.9rem;
+    
+}
